@@ -10,6 +10,10 @@
 
 Learn how to assess your .NET applications using Azure Migrate and migrate them to Azure App Service. This session will guide you through the process of discovering your app, assessing your app, and leveraging the integrated GitHub Copilot chat code analysis capability to migrate and modernize your application to Azure App Service.
 
+### Instructions
+
+[See the lab's instructions](./docs/lab501instruction.md).
+
 ### 🌟 Microsoft Learn MCP Server
 
 [![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Microsoft_Docs_MCP-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=microsoft.docs.mcp&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fmcp%22%7D)
