@@ -85,7 +85,7 @@ incorrect.](mediafolder/media/image1.png)
 9.  Now, Sign-In to Visual Studio. Click on **Microsoft**
 
 > ![A screenshot of a computer AI-generated content may be
-> incorrect.](mediafolder/media/image11.png
+> incorrect.](mediafolder/media/image11.png)
 
 10. Click on "**Work or School Account**"![A screenshot of a computer
     AI-generated content may be
@@ -305,12 +305,12 @@ Bastion**
     changes on this tab.
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](mediafolder/media/image36.png){
+incorrect.](mediafolder/media/image36.png)
 
 3.  Click on **Mounts** tab and provide following values and click
     **Add**
 
-**Name** -storage1
+**Name** -- storage1
 
 **Storage Type** -- Azure Files
 
@@ -326,7 +326,7 @@ name lab501
 **Mount drive letter --** K:\\mountfs
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](mediafolder/media/image37.png){
+incorrect.](mediafolder/media/image37.png)
 
 ![A screenshot of a computer AI-generated content may be
 incorrect.](mediafolder/media/image38.png)
@@ -413,7 +413,7 @@ incorrect.](mediafolder/media/image45.png)
 
 7.  **Finish** → **Publish**.\
     ![A screenshot of a computer AI-generated content may be
-    incorrect.](mediafolder/media/image49.png){wi
+    incorrect.](mediafolder/media/image49.png)
 
 8.  Once publishing is complete **App Service Web App** will open in
     Microsoft edge browser.
@@ -448,10 +448,15 @@ steps mentioned below.
 > ![A screenshot of a computer AI-generated content may be
 > incorrect.](mediafolder/media/image53.png)
 
-2.  Click Connect. Azure Bastion will initiate remote login into the
-    instance in a separate edge browser tab.
+> **IMPORTANT** Allow pop-ups for portal.azure.com before connecting.
+> 1. In Edge, go select the three dots at the top right of the window
+> 2. Select **Settings** and then **Privacy, search, and services**
+> 3. Select **Site permissions** and then **All permissions**
+> 4. Select **Pop-ups and redirects**
+> 5. Add `https://portal.azure.com:443` to the list of allowed sites
 
-**\#### Allow pop‑ups for portal.azure.com before connecting.**
+4.  Click Connect. Azure Bastion will initiate remote login into the
+    instance in a separate edge browser tab.
 
 ![A computer screen shot of a computer screen AI-generated content may
 be incorrect.](mediafolder/media/image54.png)
@@ -503,9 +508,7 @@ Azure Bastion perform following tasks.
 ![A screenshot of a computer AI-generated content may be
 incorrect.](mediafolder/media/image59.png)
 4.  Verify fonts installed:
-
-    - Navigate to **C:\\Windows\\Fonts** and confirm new fonts are
-      present.
+    - Navigate to **C:\\Windows\\Fonts** and confirm new fonts are present.
 
 > ![A screenshot of a computer AI-generated content may be
 > incorrect.](mediafolder/media/image60.png)
@@ -520,3 +523,5 @@ incorrect.](mediafolder/media/image61.png)
 
 ![A screenshot of a computer AI-generated content may be
 incorrect.](mediafolder/media/image62.png)
+
+

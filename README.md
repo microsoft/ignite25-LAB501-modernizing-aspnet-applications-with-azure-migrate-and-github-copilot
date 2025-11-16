@@ -1,41 +1,73 @@
+
 <p align="center">
 <img src="img/Banner-ignite-25.png" alt="decorative banner" width="1200"/>
 </p>
 
 # [Microsoft Ignite 2025](https://ignite.microsoft.com)
 
-## 🔥LAB501: Modernizing ASP.NET Applications with Azure Migrate and GitHub Copilot
+## 🔥LAB501: Migrate ASP.NET Apps using Managed Instance on Azure App Service
 
-### Session Description
 
-Learn how to assess your .NET applications using Azure Migrate and migrate them to Azure App Service. This session will guide you through the process of discovering your app, assessing your app, and leveraging the integrated GitHub Copilot chat code analysis capability to migrate and modernize your application to Azure App Service.
+### Lab Description
 
-### Instructions
+*Migrate ASP.NET Web App to Azure using Managed Instance on App Service and unblock modernization challenges*
 
-[See the lab's instructions](./docs/lab501instruction.md).
+### 🧠 Learning Outcomes
 
-### 🌟 Microsoft Learn MCP Server
+By the end of this Lab, learners will be able to:
 
-[![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Microsoft_Docs_MCP-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=microsoft.docs.mcp&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fmcp%22%7D)
+-  Execute GitHub Copilot App Mod Tool for .NET
+-  Migrate ASP.NET web app to Managed Instance on App Service
+-  Configure Installation Script , Storage and Registry Adapters. Learn how RDP into Underlying App Service Plan Instance
 
-The Microsoft Learn MCP Server is a remote MCP Server that enables clients like GitHub Copilot and other AI agents to bring trusted and up-to-date information directly from Microsoft's official documentation. Get started by using the one-click button above for VSCode or access the [mcp.json](.vscode/mcp.json) file included in this repo.
+### Lab Instructions
 
-For more information, setup instructions for other dev clients, and to post comments and questions, visit our Learn MCP Server GitHub repo at [https://github.com/MicrosoftDocs/MCP](https://github.com/MicrosoftDocs/MCP). Find other MCP Servers to connect your agent to at [https://mcp.azure.com](https://mcp.azure.com).
+[https://github.com/microsoft/ignite25-LAB501-modernizing-aspnet-applications-with-azure-migrate-and-github-copilot/blob/main/docs/lab501instruction.md](https://github.com/microsoft/ignite25-LAB501-modernizing-aspnet-applications-with-azure-migrate-and-github-copilot/blob/main/docs/lab501instruction.md)
 
-*Note: When you use the Learn MCP Server, you agree with [Microsoft Learn](https://learn.microsoft.com/en-us/legal/termsofuse) and [Microsoft API Terms](https://learn.microsoft.com/en-us/legal/microsoft-apis/terms-of-use) of Use.*
+### Lab Source Code
+
+[https://github.com/microsoft/ignite25-LAB501-modernizing-aspnet-applications-with-azure-migrate-and-github-copilot/tree/main/src](https://github.com/microsoft/ignite25-LAB501-modernizing-aspnet-applications-with-azure-migrate-and-github-copilot/tree/main/src )
+
+### 💻 Technologies Used
+
+1. Visual Studio 2026 Community edition <br/>
+2. GitHub Copilot App Mod Tool for .NET <br/>
+3. Managed Instance on App Service
 
 ### 📚 Resources and Next Steps
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for AI Tour 26 Sessions |
+| Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for Ignite 2025 Sessions |
 | Learn at Ignite | [https://aka.ms/LearnAtIgnite](https://aka.ms/LearnAtIgnite?ocid=ignite25_nextsteps_github_cnl) | Continue learning on Microsoft Learn |
+| Learn about Managed Instance on App service | [https://Aka.ms/managedinstanceonappservicedocs ](https://Aka.ms/managedinstanceonappservicedocs)| Continue Learning on Managed Instance on App service
+| Tech Community Blog about Managed Instance on App service | [https://Aka.ms/managedinstanceonappservicedocs](https://Aka.ms/managedinstanceonappservicedocs)| Tech Community Blog
 
 ## Content Owners
 
-- Andrew Westgarth
-- Gaurav Seth
-- Stefan Schackow
+<!-- TODO: Add yourself as a content owner
+1. Change the src in the image tag to {your github url}.png
+2. Change INSERT NAME HERE to your name
+3. Change the github url in the final href to your url. -->
+
+<table>
+<tr>
+    <td align="center"><a href="http://github.com/apwestgarth">
+        <img src="https://github.com/apwestgarth.png" width="100px;" alt="Andrew Westgarth"
+"/><br />
+        <sub><b> Andrew Westgarth
+</b></sub></a><br />
+            <a href="https://github.com/apwestgarth" title="talk">📢</a> 
+    </td>
+    <td align="center"><a href="http://github.com/gsethdev">
+        <img src="https://github.com/gsethdev.png" width="100px;" alt="Gaurav Seth
+"/><br />
+        <sub><b>Gaurav Seth
+</b></sub></a><br />
+            <a href="https://github.com/gsethdev" title="talk">📢</a> 
+    </td>
+</tr></table>
+
 
 ## Contributing
 
