@@ -162,7 +162,7 @@ delivery to local directory "**K:\\mountfs**"
 ![A screenshot of a computer AI-generated content may be
 incorrect.](mediafolder/media/image22.png)
 
-4.  You should be able to see all the pre-provisioned resources.
+4.  You should be able to see all the pre-provisioned resources.  Make a note of the location the resources have been provisioned in, you will need this later.
 
 ![A computer screen shot of a computer AI-generated content may be
 incorrect.](mediafolder/media/image23.png)
@@ -230,7 +230,7 @@ Service.**]
 
 **Runtime Stack --** ASP.NET V4.8
 
-**Region --** Should be same as the Azure region for the ignite2025
+**Region --** This **must be** be same as the Azure region for the ignite2025
 resource group
 
 **Windows Plan --** Leave value populated by default
@@ -523,5 +523,6 @@ incorrect.](mediafolder/media/image61.png)
 
 ![A screenshot of a computer AI-generated content may be
 incorrect.](mediafolder/media/image62.png)
+
 
 
