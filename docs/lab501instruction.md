@@ -235,7 +235,7 @@ resource group
 
 **Windows Plan --** Leave value populated by default
 
-**Pricing Plan --** Premium V4 small
+**Pricing Plan --** This **must be Premium V4 small (P1V4)**
 
 **Zone Redundancy --** disabled
 
