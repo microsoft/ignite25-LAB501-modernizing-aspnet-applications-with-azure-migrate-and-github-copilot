@@ -173,7 +173,7 @@ Service.**]
 **Upload Installation Script to the Storage Account.**
 
 1.  In the Portal, go to the pre‑created **Storage account** starting
-    with name **lab01**
+    with name **lab501**
 
 2.  Click on "**Storage Browser**" and then click on "**Blob
     containers**"

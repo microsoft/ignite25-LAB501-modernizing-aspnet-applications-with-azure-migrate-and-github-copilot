@@ -42,6 +42,7 @@ By the end of this Lab, learners will be able to:
 | Learn at Ignite | [https://aka.ms/LearnAtIgnite](https://aka.ms/LearnAtIgnite?ocid=ignite25_nextsteps_github_cnl) | Continue learning on Microsoft Learn |
 | Learn about Managed Instance on App service | [https://Aka.ms/managedinstanceonappservicedocs ](https://Aka.ms/managedinstanceonappservicedocs) | Continue Learning about Managed Instance on App service |
 | Tech Community Blog about Managed Instance on App service | [https://Aka.ms/managedinstanceonappservicedocs](https://Aka.ms/managedinstanceonappservicedocs) | Apps on Azure - Tech Community Blog |
+| Managed Instance on Azure App Service Samples Repository | [https://aka.ms/managedinstanceonappservicesamples](https://aka.ms/managedinstanceonappservicesamples) | Sample installation/configuration scripts and FAQs | 
 | Azure App Service Documentation | [https://learn.microsoft.com/azure/app-service](https://learn.microsoft.com/azure/app-service) | Azure App Service Product Documentation |
 | Azure App Service at Ignite 2025 News | [[https://aka.ms/Ignite25/blog/AppService](https://aka.ms/Ignite25/blog/AppService) | Read about all App Service updates announced at Ignite 2025 |
 
