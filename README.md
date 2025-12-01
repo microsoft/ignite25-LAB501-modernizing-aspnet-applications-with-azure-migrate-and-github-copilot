@@ -24,6 +24,8 @@ By the end of this Lab, learners will be able to:
 
 [https://github.com/microsoft/ignite25-LAB501-modernizing-aspnet-applications-with-azure-migrate-and-github-copilot/blob/main/docs/lab501instruction.md](https://github.com/microsoft/ignite25-LAB501-modernizing-aspnet-applications-with-azure-migrate-and-github-copilot/blob/main/docs/lab501instruction.md)
 
+## **[You can easily execute this Lab exercise in your own environment. A new section named "[Please Follow Steps Below To Execute this Hands On Lab Within Your Environment]" has been added to the top of the Lab Instruction document.]**
+
 ### Lab Source Code
 
 [https://github.com/microsoft/ignite25-LAB501-modernizing-aspnet-applications-with-azure-migrate-and-github-copilot/tree/main/src](https://github.com/microsoft/ignite25-LAB501-modernizing-aspnet-applications-with-azure-migrate-and-github-copilot/tree/main/src )
